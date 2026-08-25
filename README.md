@@ -129,11 +129,20 @@ flutter run
 
 ## 📸 Screenshots
 
-> Screenshots will be added after app testing.
+### Login Screen
+![Login](screenshots/localhost_50737_%20(1).png)
 
-| Login | Dashboard | To-Do App | Edit Task | Completed Tasks |
-|:---:|:---:|:---:|:---:|:---:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* |
+### Dashboard
+![Dashboard](screenshots/localhost_52830_.png)
+
+### To-Do App
+![To-Do App](screenshots/localhost_63834_.png)
+
+### Edit Task
+![Edit Task](screenshots/localhost_63834_%20(1).png)
+
+### Completed Tasks
+![Completed](screenshots/localhost_52830_%20(2).png)
 
 ## 👩‍💻 Author
 
