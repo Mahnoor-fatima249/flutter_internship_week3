@@ -129,20 +129,9 @@ flutter run
 
 ## 📸 Screenshots
 
-### Login Screen
-![Login](screenshots/localhost_50737_%20(1).png)
-
-### Dashboard
-![Dashboard](screenshots/localhost_52830_.png)
-
-### To-Do App
-![To-Do App](screenshots/localhost_63834_.png)
-
-### Edit Task
-![Edit Task](screenshots/localhost_63834_%20(1).png)
-
-### Completed Tasks
-![Completed](screenshots/localhost_52830_%20(2).png)
+| Login | Dashboard | To-Do App | Edit Task | Profile |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![To-Do](screenshots/todo.png) | ![Edit](screenshots/todo_edit.png) | ![Profile](screenshots/profile.png) |
 
 ## 👩‍💻 Author
 
