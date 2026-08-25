@@ -129,9 +129,9 @@ flutter run
 
 ## 📸 Screenshots
 
-| Login | Dashboard | To-Do App | Edit Task | Profile |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![To-Do](screenshots/todo.png) | ![Edit](screenshots/todo_edit.png) | ![Profile](screenshots/profile.png) |
+| Login Screen | To-Do App |
+|:---:|:---:|
+| ![Login](screenshots/login.png) | ![To-Do App](screenshots/TO-DO%20APP.png) |
 
 ## 👩‍💻 Author
 
